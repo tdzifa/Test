@@ -4,6 +4,8 @@ public class Ex4{
 		String message = "Hello everyone!";
 		printMessage(message);
 
+		System.out.println("Github things");
+
 	}
 
 	static void printMessage(String message){
